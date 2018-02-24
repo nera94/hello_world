@@ -1,3 +1,3 @@
 # hello_world
-my projectI
-DGFGFGDFGD
+my first repository
+this is my first line
